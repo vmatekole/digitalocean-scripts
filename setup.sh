@@ -1,0 +1,3 @@
+#!/bin/bash
+export DIGITAL_OCEAN_TOKEN="XXXXXX"
+echo "\$DIGITAL_OCEAN_TOKEN is set to $DIGITAL_OCEAN_TOKEN."
